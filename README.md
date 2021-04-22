@@ -1,4 +1,4 @@
-# sabacc
+# Sabacc
 
 This game is a work in progress.
 
@@ -9,7 +9,7 @@ For the purposes of this project there will be two parts:
 
 The goal is to eventually merge the two and create a full game.
 
-## Quickstart
+## Quick Start
 
 1. Ensure [Python is installed on your machine](https://www.python.org/downloads/)
 1. Clone/download this repo
