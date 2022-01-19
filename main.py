@@ -115,9 +115,9 @@ class MyGame(arcade.Window):
 
 
 
-        for pos1 in range(len(self.card_list)):
-            pos2 = random.randrange(len(self.card_list))
-            self.card_list[pos1], self.card_list[pos2] = self.card_list[pos2], self.card_list[pos1]
+#         for pos1 in range(len(self.card_list)):
+#             pos2 = random.randrange(len(self.card_list))
+#             self.card_list[pos1], self.card_list[pos2] = self.card_list[pos2], self.card_list[pos1]
 
     def on_draw(self):
         #render the screen
