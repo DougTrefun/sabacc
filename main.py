@@ -46,7 +46,7 @@ ZERO_SUIT = [" Sylop"]
 #if we fan out cards stacked on each other, how far apart to fan them?
 CARD_VERTICAL_OFFSET = CARD_HEIGHT * CARD_SCALE * 0.3
 
-FACE_DOWN_IMAGE = "Back.png"
+FACE_DOWN_IMAGE = "cards/Back.png"
 
 class MyGame(arcade.Window):
 
